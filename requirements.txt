@@ -3,3 +3,5 @@ subprocess
 pandas
 PIL
 IPython
+ipyfilechooser
+moviepy
