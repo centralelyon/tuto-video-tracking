@@ -1,7 +1,5 @@
-cv2
-subprocess
 pandas
-PIL
+Pillow
 IPython
 ipyfilechooser
 moviepy
