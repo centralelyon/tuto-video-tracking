@@ -3,3 +3,4 @@ Pillow
 IPython
 ipyfilechooser
 moviepy
+ntt @ git+https://github.com/centralelyon/ntt.git@main
