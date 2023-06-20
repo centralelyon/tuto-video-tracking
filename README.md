@@ -29,6 +29,8 @@ Docker
 
 - https://www.docker.com/
 
+- Image à utiliser https://github.com/seancook/docker-openpose-cpu
+
 Webcams
 
 - Make sure you have one and it works
