@@ -34,3 +34,8 @@ Docker
 Webcams
 
 - Make sure you have one and it works
+
+
+Utilisation de l'image Docker
+
+docker run -v`pwd`/frames:/frames -it seancook/openpose-cpu -display 0 -image_dir /frames -write_images /frames -write_json /frames
